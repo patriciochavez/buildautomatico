@@ -1,2 +1,2 @@
 FROM salgadop/sample-app
-EXPOSE 8088
+EXPOSE 9090
